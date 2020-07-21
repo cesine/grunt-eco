@@ -72,7 +72,7 @@
     "node": ">=0.8"
   },
   "dependencies": {
-    "eco": "~1.0"
+    "eco": "1.1.0-rc-3"
   },
   "devDependencies": {
     "grunt": ">=0.4.0",
